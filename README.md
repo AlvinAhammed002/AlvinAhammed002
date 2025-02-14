@@ -1,5 +1,4 @@
 - I'm Alvin
-- I'm in Aga Khan Academy, Dhaka Bangladesh
 - Thats about it.
 <!---
 AlvinAhammed002/AlvinAhammed002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
